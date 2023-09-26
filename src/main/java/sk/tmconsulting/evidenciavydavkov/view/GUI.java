@@ -128,7 +128,7 @@ public class GUI {
         labelDatum.setHorizontalAlignment(SwingConstants.RIGHT); // text centrovanie vpravo
         backgroundPanel.add(labelDatum);
 
-        // date picker  -vyberač dátumu OLD
+        // date picker  -vyberač dátumu OLD ONE
        /* UtilDateModel model = new UtilDateModel();
         JDatePanelImpl datePanel = new JDatePanelImpl(model);
         JDatePickerImpl datePicker = new JDatePickerImpl(datePanel);
