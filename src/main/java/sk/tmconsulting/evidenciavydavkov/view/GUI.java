@@ -205,6 +205,7 @@ public class GUI {
         hlavneOkno.setVisible(true);
 
 
+
     }
 }
 
